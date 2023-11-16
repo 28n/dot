@@ -1,5 +1,4 @@
 configstore/
-fish/
 gh/
 github-copilot/
 gitui/
@@ -18,3 +17,5 @@ raycast/
 
 starship.toml
 .DS_Store
+
+fishd.tmp.*
